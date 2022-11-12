@@ -1,5 +1,4 @@
 import express from "express";
-
 import empleadosRouter from "./routes/empleados.route.js";
 import indexRouter from "./routes/index.route.js";
 
